@@ -1,9 +1,5 @@
 # 校园疫情防控管理系统
-## 获取方式
 
-扫描下方，回复关键词  ：**疫情** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -85,6 +81,9 @@
 
 ![老师-审核记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202209251935692.jpg)
 
-## 5 功能演示视频
-[点击观看项目演示视频，位于最下方](https://mp.weixin.qq.com/s/JxDije0oLPPriWcJB658Tg)
+### 获取方式&视频演示
+
+下方扫一下，回复关键词：疫情
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
